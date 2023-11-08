@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivenkat168&label=Profile%20views&color=0e75b6&style=flat" alt="saivenkat168" /> </p>
 
-- 💬 Ask me about **Java, Android, Spring Framework**
+- 💬 Ask me about **Java, Android, Spring**
 
 - 📫 How to reach me **saivenkatsalpala@gmail.com**
 
